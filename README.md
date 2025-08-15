@@ -1,5 +1,5 @@
 
-#Challenge_2_Telecom X_análise de evasão de clientes
+## Challenge_2_Telecom X_análise de evasão de clientes
 
 Este projeto tem como objetivo analisar o comportamento dos clientes de uma empresa de telecomunicações e desenvolver estratégias para reduzir a evasão (churn). Foram aplicadas técnicas de análise exploratória, visualização de dados e modelagem preditiva para identificar padrões, extrair percepções relevantes e propor soluções práticas voltadas à retenção.
 
